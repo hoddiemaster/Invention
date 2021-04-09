@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+ background: linear-gradient(#00ff7b, #00fff2);   
+}
+.plane {
+    height: 100px;
+    width: 100px;
+}
+img {
+    height: 200px;
+    width: 300px;
+}
